@@ -1,0 +1,17 @@
+{
+    "BancorConverterExtensions": {
+        "contractAddress": "0x6000eca38b8b5bba64986182fe2a69c57f6b5414"
+    },
+    "BancorQuickConverter": {
+        "contractAddress": "0xdc688d29394a3f1e6f1e5100862776691afaf3d2"
+    },
+    "ContractRegistry": {
+        "contractAddress": "0x25b8fe1de9daf8ba351890744ff28cf7dfa8f5e3"
+    },
+    "ETH": {
+        "status": "published",
+        "stage": "traded",
+        "isDiscoverable": true,
+        "contractAddress": "0x34d402f14d58e001d8efbe6585051bf9706aa064"
+    }
+}

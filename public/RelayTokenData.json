@@ -1,0 +1,127 @@
+{
+    "STORMBNT": {
+        "name": "STORM Relay Token",
+        "symbol": "STORMBNT",
+        "decimals": 18,
+        "initialSupply": "271479582970959896079415",
+        "contractAddress": "0x609acc8b356894a937fc58f3411f9528de96ecb1",
+        "converterAddress": "0x4586649629f699f9a4b61d0e962dc3c9025fe488",
+        "converterVersion": "12",
+        "reserveData": {
+            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "name": "bancor",
+            "symbol": "BNT",
+            "decimals": 18,
+            "initialSupply": "253578517604886019444375",
+            "ratio": 500000
+        },
+        "baseTokenData": {
+            "contractAddress": "0xca9717a4a6e8009b3518648c9f3e7676255471a1",
+            "name": "STORM",
+            "symbol": "STORM",
+            "decimals": 18,
+            "initialSupply": "47560043411244644765315577",
+            "ratio": 500000
+        }
+    },
+    "DBETBNT": {
+        "name": "DBET Relay Token",
+        "symbol": "DBETBNT",
+        "decimals": 18,
+        "initialSupply": "482773000000000000000000",
+        "contractAddress": "0x72d5a2213bfe46df9fbda08e22f536ac6ca8907e",
+        "converterAddress": "0x5315e44798395d4a952530d131249fe00f554565",
+        "converterVersion": "12",
+        "reserveData": {
+            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "name": "bancor",
+            "symbol": "BNT",
+            "decimals": 18,
+            "initialSupply": "233531860384238350437188",
+            "ratio": 500000
+        },
+        "baseTokenData": {
+            "contractAddress": "0x2ebb94cc79d7d0f1195300aaf191d118f53292a8",
+            "name": "DBET",
+            "symbol": "DBET",
+            "decimals": 18,
+            "initialSupply": "3373042799498485119075441",
+            "ratio": 500000
+        }
+    },
+    "KINBNT": {
+        "name": "KIN Relay Token",
+        "symbol": "KINBNT",
+        "decimals": 18,
+        "initialSupply": "155997309227556245183780",
+        "contractAddress": "0xc7124963ab16c33e5bf421d4c0090116622b3074",
+        "converterAddress": "0x7209185959d7227fb77274e1e88151d7c4c368d3",
+        "converterVersion": "12",
+        "reserveData": {
+            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "name": "bancor",
+            "symbol": "BNT",
+            "decimals": 18,
+            "initialSupply": "168094419008935904880366",
+            "ratio": 500000
+        },
+        "baseTokenData": {
+            "contractAddress": "0xc6b0d3c45a6b5092808196cb00df5c357d55e1d5",
+            "name": "KIN",
+            "symbol": "KIN",
+            "decimals": 18,
+            "initialSupply": "3078846112766144012577281697",
+            "ratio": 500000
+        }
+    },
+    "BATBNT": {
+        "name": "BAT Relay Token",
+        "symbol": "BATBNT",
+        "decimals": 18,
+        "initialSupply": "186130315549943700799576",
+        "contractAddress": "0xd7e3593d3d8a22480e2136eab9497286d87c0231",
+        "converterAddress": "0x404c55a936f3006b13b020efaaf5771a600ec04d",
+        "converterVersion": "12",
+        "reserveData": {
+            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "name": "bancor",
+            "symbol": "BNT",
+            "decimals": 18,
+            "initialSupply": "145130035770295863396621",
+            "ratio": 500000
+        },
+        "baseTokenData": {
+            "contractAddress": "0x2579d2b186bba16999016db077b4874a7520f92e",
+            "name": "BAT",
+            "symbol": "BAT",
+            "decimals": 18,
+            "initialSupply": "1098531787435253393877341",
+            "ratio": 500000
+        }
+    },
+    "RDECIBNT": {
+        "name": "RDECI Relay Token",
+        "symbol": "RDECIBNT",
+        "decimals": 18,
+        "initialSupply": "186130315549943700799576",
+        "contractAddress": "0x1a488d7b42c1ec1539b78f772bf13eccb723f5fa",
+        "converterAddress": "0x9a1df498af690a7eb43e10a28ab51345a3a33f75",
+        "converterVersion": "12",
+        "reserveData": {
+            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "name": "bancor",
+            "symbol": "BNT",
+            "decimals": 18,
+            "initialSupply": "145130035770295863396621",
+            "ratio": 500000
+        },
+        "baseTokenData": {
+            "contractAddress": "0x965d352283a3c8a016b9bbbc9bf6306665d495e7",
+            "name": "relay deci",
+            "symbol": "RDECI",
+            "decimals": 8,
+            "initialSupply": "109853178743525",
+            "ratio": 500000
+        }
+    }
+}

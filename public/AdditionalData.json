@@ -1,0 +1,56 @@
+{
+    "blockNumber": 109,
+    "scheduledTasks": [
+        {
+            "serviceName": "currencies",
+            "moduleName": "conversionRates",
+            "commandName": "updateExternalRates",
+            "cronjobInfo": "*/10 * * * * *"
+        },
+        {
+            "serviceName": "currencies",
+            "moduleName": "currencies",
+            "commandName": "updateDiscoveryCacheMetadata",
+            "cronjobInfo": "*/10 * * * * *"
+        },
+        {
+            "serviceName": "blockchains",
+            "moduleName": "transactions",
+            "commandName": "processTransactions",
+            "args": {
+                "blockchainType": "ethereum"
+            },
+            "cronjobInfo": "*/10 * * * * *"
+        },
+        {
+            "serviceName": "currencies",
+            "moduleName": "currencies",
+            "commandName": "updateDiscoveryCacheRawData",
+            "cronjobInfo": "*/15 * * * * *"
+        },
+        {
+            "serviceName": "chatbots",
+            "moduleName": "messages",
+            "commandName": "pollForNewTelegramMessages",
+            "cronjobInfo": "*/3 * * * * *",
+            "enabled": false
+        },
+        {
+            "serviceName": "chatbots",
+            "moduleName": "messages",
+            "commandName": "sendBulkTelegramMessages",
+            "cronjobInfo": "*/5 * * * * *"
+        },
+        {
+            "commandName": "processVolume",
+            "serviceName": "currencies",
+            "moduleName": "volume",
+            "args": {
+                "historicalProcessLimit": 86400000
+            },
+            "cronjobInfo": "*/30 * * * * *",
+            "enabled": false
+        }
+    ],
+    "bancorXContractAddress": "0x55d8c9bae15019bfb02b52cb3ceed05b783ea275"
+}
