@@ -1,5 +1,5 @@
 {
-    "blockNumber": 109,
+    "blockNumber": 93,
     "scheduledTasks": [
         {
             "serviceName": "currencies",
@@ -52,5 +52,5 @@
             "enabled": false
         }
     ],
-    "bancorXContractAddress": "0x55d8c9bae15019bfb02b52cb3ceed05b783ea275"
+    "bancorXContractAddress": "0xf55c68045b18816ddd199f7a92c63294d1449706"
 }

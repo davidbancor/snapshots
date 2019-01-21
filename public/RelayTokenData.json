@@ -4,11 +4,11 @@
         "symbol": "STORMBNT",
         "decimals": 18,
         "initialSupply": "271479582970959896079415",
-        "contractAddress": "0x609acc8b356894a937fc58f3411f9528de96ecb1",
-        "converterAddress": "0x4586649629f699f9a4b61d0e962dc3c9025fe488",
+        "contractAddress": "0x8211bad1b00374c841aebc1613e7cb16da4ad18d",
+        "converterAddress": "0x2875f31d9feab3f15da215e88c4a6516ae567444",
         "converterVersion": "12",
         "reserveData": {
-            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "contractAddress": "0x705261875d59a61e130d6d7f2997d54d7345e582",
             "name": "bancor",
             "symbol": "BNT",
             "decimals": 18,
@@ -16,7 +16,7 @@
             "ratio": 500000
         },
         "baseTokenData": {
-            "contractAddress": "0xca9717a4a6e8009b3518648c9f3e7676255471a1",
+            "contractAddress": "0x224f094d188b3883d47392909a56c7f8804d8461",
             "name": "STORM",
             "symbol": "STORM",
             "decimals": 18,
@@ -29,11 +29,11 @@
         "symbol": "DBETBNT",
         "decimals": 18,
         "initialSupply": "482773000000000000000000",
-        "contractAddress": "0x72d5a2213bfe46df9fbda08e22f536ac6ca8907e",
-        "converterAddress": "0x5315e44798395d4a952530d131249fe00f554565",
+        "contractAddress": "0xc5c2ab4a9802efa18115c035519fbb8e6be5a673",
+        "converterAddress": "0xc70b6620f641beb32495a023f17d02645c24a284",
         "converterVersion": "12",
         "reserveData": {
-            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "contractAddress": "0x705261875d59a61e130d6d7f2997d54d7345e582",
             "name": "bancor",
             "symbol": "BNT",
             "decimals": 18,
@@ -41,7 +41,7 @@
             "ratio": 500000
         },
         "baseTokenData": {
-            "contractAddress": "0x2ebb94cc79d7d0f1195300aaf191d118f53292a8",
+            "contractAddress": "0x6faf5b7d7800297a459dcb81cff03182845039e0",
             "name": "DBET",
             "symbol": "DBET",
             "decimals": 18,
@@ -54,11 +54,11 @@
         "symbol": "KINBNT",
         "decimals": 18,
         "initialSupply": "155997309227556245183780",
-        "contractAddress": "0xc7124963ab16c33e5bf421d4c0090116622b3074",
-        "converterAddress": "0x7209185959d7227fb77274e1e88151d7c4c368d3",
+        "contractAddress": "0x787a6657d8ac5177b904d6d93cdda3438f84cd11",
+        "converterAddress": "0xe776946e5e82b75e5984b1dd06522a36449a7803",
         "converterVersion": "12",
         "reserveData": {
-            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "contractAddress": "0x705261875d59a61e130d6d7f2997d54d7345e582",
             "name": "bancor",
             "symbol": "BNT",
             "decimals": 18,
@@ -66,7 +66,7 @@
             "ratio": 500000
         },
         "baseTokenData": {
-            "contractAddress": "0xc6b0d3c45a6b5092808196cb00df5c357d55e1d5",
+            "contractAddress": "0x4022069fafca690b7d72c8fcf266e40747c392e0",
             "name": "KIN",
             "symbol": "KIN",
             "decimals": 18,
@@ -79,11 +79,11 @@
         "symbol": "BATBNT",
         "decimals": 18,
         "initialSupply": "186130315549943700799576",
-        "contractAddress": "0xd7e3593d3d8a22480e2136eab9497286d87c0231",
-        "converterAddress": "0x404c55a936f3006b13b020efaaf5771a600ec04d",
+        "contractAddress": "0xcaa41812bf75e4cd5708e79b173924bac1c9eb7a",
+        "converterAddress": "0xb475b662fa321b9c97d50ee2fb3674c0d95a6b73",
         "converterVersion": "12",
         "reserveData": {
-            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "contractAddress": "0x705261875d59a61e130d6d7f2997d54d7345e582",
             "name": "bancor",
             "symbol": "BNT",
             "decimals": 18,
@@ -91,7 +91,7 @@
             "ratio": 500000
         },
         "baseTokenData": {
-            "contractAddress": "0x2579d2b186bba16999016db077b4874a7520f92e",
+            "contractAddress": "0x815439b1b2790b9c04e71d9bb915eb7a7753c935",
             "name": "BAT",
             "symbol": "BAT",
             "decimals": 18,
@@ -104,11 +104,11 @@
         "symbol": "RDECIBNT",
         "decimals": 18,
         "initialSupply": "186130315549943700799576",
-        "contractAddress": "0x1a488d7b42c1ec1539b78f772bf13eccb723f5fa",
-        "converterAddress": "0x9a1df498af690a7eb43e10a28ab51345a3a33f75",
+        "contractAddress": "0x9bf65747139be1e2e3bc02c4d2c497ae754607b5",
+        "converterAddress": "0xcdaae7e1b4d8e9bdf278ad94b657e96e6ce97c56",
         "converterVersion": "12",
         "reserveData": {
-            "contractAddress": "0x7e3f4e1deb8d3a05d9d2da87d9521268d0ec3239",
+            "contractAddress": "0x705261875d59a61e130d6d7f2997d54d7345e582",
             "name": "bancor",
             "symbol": "BNT",
             "decimals": 18,
@@ -116,7 +116,7 @@
             "ratio": 500000
         },
         "baseTokenData": {
-            "contractAddress": "0x965d352283a3c8a016b9bbbc9bf6306665d495e7",
+            "contractAddress": "0x3464e7c096180a763ad23635ae4385fecc132adb",
             "name": "relay deci",
             "symbol": "RDECI",
             "decimals": 8,
